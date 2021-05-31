@@ -4,7 +4,7 @@
 
 This project is a training for the insertion of a dynamic content of HTML code in the DOM (Document Object Model) using Javascript. In addition to this, the management of user interactions is included. This challenge is a program that automatically creates a grid on which a character moves to the arrival square by being directed by the keys (forward arrow, left arrow, right arrow). A message is displayed when he is on the arrival square indicating the number of moves.
 
-## Authors
+## Author
 
 * Laura Grenier
 
