@@ -6,7 +6,7 @@ This project is a training for the insertion of a dynamic content of HTML code i
 
 ## Authors
 
-* Scrum Master : Laura Grenier
+* Laura Grenier
 
 ## Stack
 
