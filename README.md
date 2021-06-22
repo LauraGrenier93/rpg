@@ -22,3 +22,7 @@ This project is a training for the insertion of a dynamic content of HTML code i
 * Secondly, you view the application:
     * or open your browser and choose the index.html file
     * or you install the Visual Studio Code liveServer extension
+
+## Putting the project online
+
+the project has been posted on heroku: https://link-rpg.surge.sh/
