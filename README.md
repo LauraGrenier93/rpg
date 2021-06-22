@@ -25,4 +25,4 @@ This project is a training for the insertion of a dynamic content of HTML code i
 
 ## Putting the project online
 
-the project has been posted on heroku: https://link-rpg.surge.sh/
+the project has been posted on surge: https://link-rpg.surge.sh/
